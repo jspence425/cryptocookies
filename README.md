@@ -1,2 +1,2 @@
 # cryptocookies
-Fuck girl scout cookies
+cryptocookies
