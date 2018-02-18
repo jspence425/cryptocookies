@@ -1,4 +1,4 @@
 name: Jordan Spence, Founder & CEO of CryptoCookies
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+<!--- permalink: /cryptcookies/blog/:year/:month/:day/:title ---!>
 baseurl: /cryptocookies
